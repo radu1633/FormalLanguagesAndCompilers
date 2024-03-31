@@ -1,0 +1,4 @@
+S SS|XY|b
+X XS|a
+Y YS
+Y b

@@ -1,0 +1,7 @@
+S aba
+S AbB
+S bSC
+A aCC
+C #
+D C
+D cc
